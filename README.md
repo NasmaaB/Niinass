@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niinass
+- 👋 Hi, I’m @NasmaaB
 - 👀 I’m interested in web development...
 - 🌱 I’m currently learning node.js and react.js
 - 💞️ I’m looking to collaborate on my project
